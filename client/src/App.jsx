@@ -5,7 +5,7 @@ import Dashboard from './components/dashboard';
 import Create from './components/create';
 import Edit from './components/edit';  
 import Game from './components/game';
-import GameDetailsPage from './components/game';
+
 
 const App = () => {
   return (
